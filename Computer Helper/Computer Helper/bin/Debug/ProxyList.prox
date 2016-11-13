@@ -1,0 +1,38 @@
+﻿Public Class Form2
+    Dim AllItems As String = ""
+    Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Try
+            AllItems = My.Computer.FileSystem.ReadAllText("Textfile.txt")
+
+            Dim ItemLines As New TextBox
+            ItemLines.Text = AllItems
+
+
+            For Each line As String In ItemLines.Lines
+
+                Dim a1() As String = line.Split(":")
+
+                Dim ItemName As String = a1(0)
+                Dim SubItem1 As String = a1(1)
+                Dim SubItem2 As String = a1(2)
+                Dim SubItem3 As String = a1(3)
+                Dim SubItem4 As String = a1(4)
+                Dim SubItem5 As String = a1(5)
+
+                Dim Item As New ListViewItem(ItemName)
+
+                Item.SubItems.Add(SubItem1)
+                Item.SubItems.Add(SubItem2)
+                Item.SubItems.Add(SubItem3)
+                Item.SubItems.Add(SubItem4)
+                Item.SubItems.Add(SubItem5)
+
+                ListView1.Items.AddRange(New ListViewItem() {Item})
+
+            Next
+
+        Catch ex As Exception
+            MsgBox("Error" & vbNewLine & ex.Message, MsgBoxStyle.Exclamation, "Error ")
+        End Try
+    End Sub
+End Class

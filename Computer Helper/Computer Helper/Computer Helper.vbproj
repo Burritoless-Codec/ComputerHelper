@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{871ED61D-A9F1-474B-839C-55CFADF68C9B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Computer_Helper.My.MyApplication</StartupObject>
+    <RootNamespace>Computer_Helper</RootNamespace>
+    <AssemblyName>Computer Helper</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Computer Helper.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Computer Helper.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icons-Land-Vista-Hardware-Devices-Computer.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>ModJokerGaming.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>87BC348D988BC978F8A9855F9CCCE866FB7172CE</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ModJokerGaming.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CoreAudioApi">
+      <HintPath>..\..\..\..\..\Downloads\CoreAudioApi.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Calls.Designer.vb">
+      <DependentUpon>Calls.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Calls.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dvd1.Designer.vb">
+      <DependentUpon>dvd1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dvd1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="f1.Designer.vb">
+      <DependentUpon>f1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="f1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="filebinder.Designer.vb">
+      <DependentUpon>filebinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="filebinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fllocker.Designer.vb">
+      <DependentUpon>fllocker.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fllocker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form12.Designer.vb">
+      <DependentUpon>Form12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="imgconver.Designer.vb">
+      <DependentUpon>imgconver.vb</DependentUpon>
+    </Compile>
+    <Compile Include="imgconver.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ipgrab.Designer.vb">
+      <DependentUpon>ipgrab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ipgrab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ipinfo.Designer.vb">
+      <DependentUpon>ipinfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ipinfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="load.Designer.vb">
+      <DependentUpon>load.vb</DependentUpon>
+    </Compile>
+    <Compile Include="load.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mal.Designer.vb">
+      <DependentUpon>mal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MediaPlayer.Designer.vb">
+      <DependentUpon>MediaPlayer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MediaPlayer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pdfedit.Designer.vb">
+      <DependentUpon>pdfedit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pdfedit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pdfviewer.Designer.vb">
+      <DependentUpon>pdfviewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pdfviewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Playlist.Designer.vb">
+      <DependentUpon>Playlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Playlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="progsh.Designer.vb">
+      <DependentUpon>progsh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="progsh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="progstop.Designer.vb">
+      <DependentUpon>progstop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="progstop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="proxylist.Designer.vb">
+      <DependentUpon>proxylist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="proxylist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reset.Designer.vb">
+      <DependentUpon>Reset.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reset.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="save.Designer.vb">
+      <DependentUpon>save.vb</DependentUpon>
+    </Compile>
+    <Compile Include="save.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settings1.Designer.vb">
+      <DependentUpon>settings1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="settings1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ss.Designer.vb">
+      <DependentUpon>ss.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ss.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Systemspecks.Designer.vb">
+      <DependentUpon>Systemspecks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Systemspecks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tempcleaner.Designer.vb">
+      <DependentUpon>Tempcleaner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tempcleaner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="textedit.Designer.vb">
+      <DependentUpon>textedit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="textedit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Textencry.Designer.vb">
+      <DependentUpon>Textencry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Textencry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Theme1.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ToolS.Designer.vb">
+      <DependentUpon>ToolS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ToolS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatefeed.Designer.vb">
+      <DependentUpon>updatefeed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="updatefeed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Verticalprog.vb" />
+    <Compile Include="Volumecontrol.Designer.vb">
+      <DependentUpon>Volumecontrol.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Volumecontrol.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Calls.resx">
+      <DependentUpon>Calls.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dvd1.resx">
+      <DependentUpon>dvd1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="f1.resx">
+      <DependentUpon>f1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="filebinder.resx">
+      <DependentUpon>filebinder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fllocker.resx">
+      <DependentUpon>fllocker.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form12.resx">
+      <DependentUpon>Form12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="imgconver.resx">
+      <DependentUpon>imgconver.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ipgrab.resx">
+      <DependentUpon>ipgrab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ipinfo.resx">
+      <DependentUpon>ipinfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="load.resx">
+      <DependentUpon>load.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mal.resx">
+      <DependentUpon>mal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MediaPlayer.resx">
+      <DependentUpon>MediaPlayer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pdfedit.resx">
+      <DependentUpon>pdfedit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pdfviewer.resx">
+      <DependentUpon>pdfviewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Playlist.resx">
+      <DependentUpon>Playlist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="progsh.resx">
+      <DependentUpon>progsh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="progstop.resx">
+      <DependentUpon>progstop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="proxylist.resx">
+      <DependentUpon>proxylist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reset.resx">
+      <DependentUpon>Reset.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="save.resx">
+      <DependentUpon>save.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="settings1.resx">
+      <DependentUpon>settings1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Systemspecks.resx">
+      <DependentUpon>Systemspecks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tempcleaner.resx">
+      <DependentUpon>Tempcleaner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="textedit.resx">
+      <DependentUpon>textedit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Textencry.resx">
+      <DependentUpon>Textencry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToolS.resx">
+      <DependentUpon>ToolS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatefeed.resx">
+      <DependentUpon>updatefeed.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Volumecontrol.resx">
+      <DependentUpon>Volumecontrol.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ModJokerGaming.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CoreAudioApi.dll" />
+    <Content Include="md5 malwarehash.txt" />
+    <Content Include="reset.exe" />
+    <None Include="Resources\setting.png" />
+    <None Include="Resources\setting1.png" />
+    <None Include="Resources\MJGC jonathan logo1.png" />
+    <Content Include="temp.exe" />
+    <Content Include="Updater.exe" />
+    <Content Include="Icons-Land-Vista-Hardware-Devices-Computer.ico" />
+    <None Include="Resources\MJGC jonathan logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxSKYPE4COMLib">
+      <Guid>{03282B5D-B38F-469D-849A-09B0A7F4881B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="SKYPE4COMLib">
+      <Guid>{03282B5D-B38F-469D-849A-09B0A7F4881B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

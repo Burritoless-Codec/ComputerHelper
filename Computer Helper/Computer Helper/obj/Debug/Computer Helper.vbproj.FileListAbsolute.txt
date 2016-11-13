@@ -1,0 +1,120 @@
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.f1.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Form1.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Resources.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Reset.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.vbproj.GenerateResource.Cache
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\bin\Debug\Computer Helper.exe.config
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\bin\Debug\Computer Helper.exe
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\bin\Debug\Computer Helper.pdb
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\bin\Debug\Computer Helper.xml
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Form12.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.exe
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.xml
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.pdb
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Calls.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Form2.resources
+C:\Users\jblac_000\documents\visual studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Tempcleaner.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.ToolS.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Systemspecks.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.MediaPlayer.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\bin\Debug\Interop.WMPLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Interop.WMPLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.vbproj.ResolveComReference.cache
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Playlist.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.pdfviewer.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\jblac_000\Documents\Computer Helper\Computer Helper\bin\Debug\Computer Helper.exe.config
+C:\Users\jblac_000\Documents\Computer Helper\Computer Helper\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\jblac_000\Documents\Computer Helper\Computer Helper\obj\Debug\Interop.WMPLib.dll
+C:\Users\jblac_000\Documents\Computer Helper\Computer Helper\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\jblac_000\Documents\Computer Helper\Computer Helper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jblac_000\Documents\Computer Helper\Computer Helper\obj\Debug\Computer Helper.vbproj.ResolveComReference.cache
+C:\Users\jblac_000\Documents\Computer Helper\Computer Helper\obj\Debug\Computer Helper.exe
+C:\Users\jblac_000\Documents\Computer Helper\Computer Helper\obj\Debug\Computer Helper.xml
+C:\Users\jblac_000\Documents\Computer Helper\Computer Helper\obj\Debug\Computer Helper.pdb
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Form3.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.mal.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.textedit.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.updatefeed.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.proxylist.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Textencry.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.fllocker.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.imgconver.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\bin\Debug\AxInterop.SKYPE4COMLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\AxInterop.SKYPE4COMLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.pdfedit.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Interop.AdobePDFMakerX.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.ipinfo.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.ipgrab.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.filebinder.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.load.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.dvd1.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.save.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.settings1.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\bin\Debug\CoreAudioApi.dll
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Volumecontrol.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.vbprojResolveAssemblyReference.cache
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.progstop.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.progsh.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\bin\Debug\Computer Helper.exe.config
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Interop.WMPLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\AxInterop.SKYPE4COMLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.vbproj.ResolveComReference.cache
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.exe
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.xml
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.pdb
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\bin\Debug\Computer Helper.exe
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\bin\Debug\Computer Helper.pdb
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\bin\Debug\Computer Helper.xml
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\bin\Debug\CoreAudioApi.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\bin\Debug\Interop.WMPLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\bin\Debug\AxInterop.SKYPE4COMLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.vbprojResolveAssemblyReference.cache
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Calls.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.dvd1.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.f1.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.filebinder.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.fllocker.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Form1.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Form12.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Form2.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Form3.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.imgconver.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.ipgrab.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.ipinfo.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.load.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.mal.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.MediaPlayer.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Resources.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.pdfedit.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.pdfviewer.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Playlist.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.progsh.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.progstop.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.proxylist.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Reset.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.save.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.settings1.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Systemspecks.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Tempcleaner.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.textedit.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Textencry.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.ToolS.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.updatefeed.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer_Helper.Volumecontrol.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper\Computer Helper\obj\Debug\Computer Helper.vbproj.GenerateResource.Cache

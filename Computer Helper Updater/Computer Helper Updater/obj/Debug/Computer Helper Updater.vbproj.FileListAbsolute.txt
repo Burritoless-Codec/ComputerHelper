@@ -1,0 +1,10 @@
+c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\bin\Debug\Computer Helper Updater.exe
+c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\bin\Debug\Computer Helper Updater.pdb
+c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\bin\Debug\Computer Helper Updater.xml
+c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer_Helper_Updater.Form1.resources
+c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer_Helper_Updater.Resources.resources
+c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.vbproj.GenerateResource.Cache
+c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.exe
+c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.xml
+c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.pdb
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.vbprojResolveAssemblyReference.cache

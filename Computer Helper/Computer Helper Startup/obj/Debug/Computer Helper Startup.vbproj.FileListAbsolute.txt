@@ -1,0 +1,9 @@
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper Startup\bin\Debug\Computer Helper Startup.exe
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper Startup\bin\Debug\Computer Helper Startup.pdb
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper Startup\bin\Debug\Computer Helper Startup.xml
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper Startup\obj\Debug\Computer_Helper_Startup.Form1.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper Startup\obj\Debug\Computer_Helper_Startup.Resources.resources
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper Startup\obj\Debug\Computer Helper Startup.vbproj.GenerateResource.Cache
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper Startup\obj\Debug\Computer Helper Startup.exe
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper Startup\obj\Debug\Computer Helper Startup.xml
+C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper\Computer Helper Startup\obj\Debug\Computer Helper Startup.pdb
