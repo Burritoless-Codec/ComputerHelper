@@ -539,7 +539,7 @@ Partial Class Form1
         Me.HuraButton5.ProgressColour = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(191, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.HuraButton5.Size = New System.Drawing.Size(116, 42)
         Me.HuraButton5.TabIndex = 4
-        Me.HuraButton5.Text = "Webbrowser"
+        Me.HuraButton5.Text = "Web Browser"
         '
         'HuraButton7
         '

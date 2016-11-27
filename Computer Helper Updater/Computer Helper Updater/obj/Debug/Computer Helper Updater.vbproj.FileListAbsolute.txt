@@ -8,3 +8,13 @@ c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater
 c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.xml
 c:\users\jblac_000\documents\visual studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.pdb
 C:\Users\jblac_000\Documents\Visual Studio 2013\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.vbprojResolveAssemblyReference.cache
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.exe
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.xml
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.pdb
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper Updater\Computer Helper Updater\bin\Debug\Computer Helper Updater.exe
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper Updater\Computer Helper Updater\bin\Debug\Computer Helper Updater.pdb
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper Updater\Computer Helper Updater\bin\Debug\Computer Helper Updater.xml
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.vbprojResolveAssemblyReference.cache
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer_Helper_Updater.Form1.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer_Helper_Updater.Resources.resources
+C:\Users\jblac_000\Documents\Visual Studio 2015\Projects\Computer Helper Updater\Computer Helper Updater\obj\Debug\Computer Helper Updater.vbproj.GenerateResource.Cache

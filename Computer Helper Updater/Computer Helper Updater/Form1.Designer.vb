@@ -153,7 +153,7 @@ Partial Class Form1
         Me.HuraTextBox1.Size = New System.Drawing.Size(478, 29)
         Me.HuraTextBox1.Style = Computer_Helper_Updater.HuraTextBox.Styles.Normal
         Me.HuraTextBox1.TabIndex = 1
-        Me.HuraTextBox1.Text = "https://www.dropbox.com/s/ttmumtooc9m2yr8/Computerhelperupdate.exe?dl=1"
+        Me.HuraTextBox1.Text = "http://modjokergaming.tk/ComputerHelper/NewVersion/"
         Me.HuraTextBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Left
         Me.HuraTextBox1.TextColour = System.Drawing.Color.FromArgb(CType(CType(150, Byte), Integer), CType(CType(150, Byte), Integer), CType(CType(150, Byte), Integer))
         Me.HuraTextBox1.UseSystemPasswordChar = False

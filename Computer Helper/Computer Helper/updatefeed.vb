@@ -7,10 +7,9 @@ Public Class updatefeed
     Public Sub CheckForUpdates()
         Dim ws As New WebClient
         Dim newestversion = ws.DownloadString("http://modjokergaming.tk/ComputerHelper/Version/")
-        Dim request As Net.HttpWebRequest = Net.WebRequest.Create("http://modjokergaming.tk/Computer%20Helper/UpdateFeed/")
-        Dim response As Net.HttpWebResponse = request.GetResponse()
-        Dim sr As System.IO.StreamReader = New IO.StreamReader(response.GetResponseStream())
-        Dim newestversion As String = sr.ReadToEnd()
+        Dim request As HttpWebRequest = WebRequest.Create("http://modjokergaming.tk/Computer%20Helper/UpdateFeed/")
+        Dim response As HttpWebResponse = request.GetResponse()
+        Dim sr As IO.StreamReader = New IO.StreamReader(response.GetResponseStream())
         RichTextBox1.Text = newestversion
     End Sub
 
